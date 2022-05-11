@@ -13,7 +13,7 @@ public class WebConfig extends AbstractAnnotationConfigDispatcherServletInitiali
     @Override
     protected Class<?> [] getServletConfigClasses() {
         // TODO Auto-generated method stub
-        return new Class[] {RootConfig.class};
+        return null;
     }
 
     @Override
